@@ -1,0 +1,637 @@
+
+Configuración IP de Windows
+
+    safebrowsing.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 59
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.14.170
+
+
+    www.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : www.gstatic.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 115
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.194.35
+
+
+    ogs.google.com
+    ----------------------------------------
+    Nombre de registro  . : ogs.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 147
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : www3.l.google.com
+
+
+    Nombre de registro  . : www3.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 147
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.12.46
+
+
+    play.google.com
+    ----------------------------------------
+    Nombre de registro  . : play.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 46
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.14
+
+
+    oauthaccountmanager.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : oauthaccountmanager.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 111
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.95
+
+
+    collector.githubapp.com
+    ----------------------------------------
+    Nombre de registro  . : collector.githubapp.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 6
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.226.188.204
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 50.17.56.103
+
+
+    Nombre de registro  . : analytics-collector-28944298.us-east-1.elb.amazonaws.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 6
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 54.221.222.163
+
+
+    fcmconnection.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : fcmconnection.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 125
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.193.138
+
+
+    fp-vs.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vs.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 205
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vs.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vs.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 205
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 205
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    coedit034229009224.prezi.com
+    ----------------------------------------
+    Nombre de registro  . : coedit034229009224.prezi.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 52
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 34.229.9.224
+
+
+    webmail.dgb.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : webmail.dgb.uanl.mx
+    Tipo de registro  . . : 5
+    Período de vida . . . : 43777
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : mail.dgb.uanl.mx
+
+
+    Nombre de registro  . : mail.dgb.uanl.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 43777
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 148.234.90.52
+
+
+    fp-vp.azureedge.net
+    ----------------------------------------
+    Nombre de registro  . : fp-vp.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 140
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : fp-vp.ec.azureedge.net
+
+
+    Nombre de registro  . : fp-vp.ec.azureedge.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 140
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : cs9.wpc.v0cdn.net
+
+
+    Nombre de registro  . : cs9.wpc.v0cdn.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 140
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 72.21.81.200
+
+
+    ti.dgb.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : ti.dgb.uanl.mx
+    Tipo de registro  . . : 5
+    Período de vida . . . : 10053
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : e1.dgb.uanl.mx
+
+
+    Nombre de registro  . : e1.dgb.uanl.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 10053
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 148.234.90.50
+
+
+    content-autofill.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : content-autofill.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 121
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.170
+
+
+    www.dgb.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : www.dgb.uanl.mx
+    Tipo de registro  . . : 5
+    Período de vida . . . : 10053
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : e1.dgb.uanl.mx
+
+
+    Nombre de registro  . : e1.dgb.uanl.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 10053
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 148.234.90.50
+
+
+    ssl.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : ssl.gstatic.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 114
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 216.58.194.35
+
+
+    safebrowsing.google.com
+    ----------------------------------------
+    Nombre de registro  . : safebrowsing.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 65
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : sb.l.google.com
+
+
+    Nombre de registro  . : sb.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 65
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.9.174
+
+
+    clients1.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients1.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 47
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 47
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.174
+
+
+    www.google.com
+    ----------------------------------------
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.106
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.105
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.147
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.104
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.103
+
+
+    Nombre de registro  . : www.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 69
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 74.125.198.99
+
+
+    apis.google.com
+    ----------------------------------------
+    Nombre de registro  . : apis.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 171
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : plus.l.google.com
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.113
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.138
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.139
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.102
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.100
+
+
+    Nombre de registro  . : plus.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 171
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.253.125.101
+
+
+    www.p-hd.com.ar
+    ----------------------------------------
+    Nombre de registro  . : www.p-hd.com.ar
+    Tipo de registro  . . : 5
+    Período de vida . . . : 13659
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : p-hd.com.ar
+
+
+    Nombre de registro  . : p-hd.com.ar
+    Tipo de registro  . . : 1
+    Período de vida . . . : 13659
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 69.16.228.14
+
+
+    presence.teams.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : presence.teams.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : presence.services.sfb.trafficmanager.net
+
+
+    Nombre de registro  . : presence.services.sfb.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 1
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : a-ups-presence6-prod-azsc.westus2.cloudapp.azure.com
+
+
+    Nombre de registro  . : a-ups-presence6-prod-azsc.westus2.cloudapp.azure.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 1
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.112.115.27
+
+
+    browser.pipe.aria.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : browser.pipe.aria.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : browser.events.data.trafficmanager.net
+
+
+    Nombre de registro  . : browser.events.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : skypedataprdcolweu05.cloudapp.net
+
+
+    Nombre de registro  . : skypedataprdcolweu05.cloudapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.114.75.79
+
+
+    browser.pipe.aria.microsoft.com
+    ----------------------------------------
+    Nombre de registro  . : browser.pipe.aria.microsoft.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : browser.events.data.trafficmanager.net
+
+
+    Nombre de registro  . : browser.events.data.trafficmanager.net
+    Tipo de registro  . . : 5
+    Período de vida . . . : 5
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : skypedataprdcolweu05.cloudapp.net
+
+
+    Nombre de registro  . : skypedataprdcolweu05.cloudapp.net
+    Tipo de registro  . . : 1
+    Período de vida . . . : 5
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 52.114.75.79
+
+
+    pypi.org
+    ----------------------------------------
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.192.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.128.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.64.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.0.223
+
+
+    pypi.org
+    ----------------------------------------
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.192.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.128.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.64.223
+
+
+    Nombre de registro  . : pypi.org
+    Tipo de registro  . . : 1
+    Período de vida . . . : 31722
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 151.101.0.223
+
+
+    update.googleapis.com
+    ----------------------------------------
+    Nombre de registro  . : update.googleapis.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 46
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 172.217.1.227
+
+
+    fonts.gstatic.com
+    ----------------------------------------
+    Nombre de registro  . : fonts.gstatic.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 73
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : gstaticadssl.l.google.com
+
+
+    Nombre de registro  . : gstaticadssl.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 73
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 108.177.8.94
+
+
+    clients4.google.com
+    ----------------------------------------
+    Nombre de registro  . : clients4.google.com
+    Tipo de registro  . . : 5
+    Período de vida . . . : 46
+    Longitud de datos . . : 8
+    Sección . . . . . . . : respuesta
+    Registro CNAME. . . . : clients.l.google.com
+
+
+    Nombre de registro  . : clients.l.google.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 46
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 142.250.68.174
+
+
+    github.githubassets.com
+    ----------------------------------------
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2487
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.110.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2487
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.108.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2487
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.109.154
+
+
+    Nombre de registro  . : github.githubassets.com
+    Tipo de registro  . . : 1
+    Período de vida . . . : 2487
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 185.199.111.154
+
+
+    ftp.dgb.uanl.mx
+    ----------------------------------------
+    Nombre de registro  . : ftp.dgb.uanl.mx
+    Tipo de registro  . . : 1
+    Período de vida . . . : 72282
+    Longitud de datos . . : 4
+    Sección . . . . . . . : respuesta
+    Un registro (host). . : 148.234.90.51
